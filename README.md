@@ -23,14 +23,15 @@ Java Fullstack Developer | Penetration Tester | OSCP Certified
 
 ## 📊 GitHub Stats
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=cod3rjava&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cod3rjava&layout=compact&theme=radical)  
+![Om's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cod3rjava&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cod3rjava&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=cod3rjava&theme=onedark&margin-w=10&margin-h=10&no-frame=true)
+
 
 ---
 

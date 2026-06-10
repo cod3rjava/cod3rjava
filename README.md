@@ -41,14 +41,6 @@ Java Fullstack Developer | Penetration Tester | OSCP Certified
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cod3rjava&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="Trophies" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">

@@ -51,9 +51,10 @@ I work on both sides of the application: I build back-end and full-stack systems
 | --- | --- |
 | [CacheProbe](https://github.com/cod3rjava/web-cache-deception-automation) | Web cache deception & cache poisoning scanner — runs locally with one `docker compose up` |
 | [OAuthRoot Labs](https://github.com/cod3rjava/oauthroot-labs) | Local OAuth 2.0 security CTF with hands-on labs for common OAuth flaws |
-| [GraphQL Hacking Lab](https://github.com/cod3rjava/graphql-hacking-lab) | Dockerised GraphQL lab (client + services) for practising GraphQL attacks |
 | [HeaderSmith](https://github.com/cod3rjava/header-smith-cod3rjava-firefox) | Firefox extension to override request headers per URL pattern while testing |
-| [web-app-pentesting](https://github.com/cod3rjava/web-app-pentesting) | Web app pentesting notes, payloads, scripts and tools |
+| [Rep+ for Firefox](https://github.com/cod3rjava/rep-firefox-v2) | Firefox DevTools extension for capturing and repeating HTTP requests |
+| [offsec-checklist](https://github.com/cod3rjava/offsec-checklist) | Pentest checklists and commands — LFI, buffer overflow scripts and more |
+| [sql-injection](https://github.com/cod3rjava/sql-injection) | SQL injection attack notes and payload collection |
 
 ---
 
